@@ -21,20 +21,29 @@ Repeating the School district analysis, as requested - District summarry
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/D2_SchoolDistrict_Summary.PNG)
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/District_summary.PNG)
 
+
 Top 5 best performing schools based on average passing grades
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/High_performers.PNG)
+
 
 Bottom 5 performing schools based on average passing grades
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/Low_performers.PNG)
 
+
 Average math scores
+
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/Avg_MathScore_per_grade_school.PNG)
 
+
 Average reading scores
+
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/Avg_ReadingScore_per_grade_school.PNG)
+
 
 School performance based on budget
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/Scores_by_schoolspending_per_student.PNG)
+
+
 
 School performance by school size
 ![name-of-you-image](https://github.com/anamahmed15/School_District_Analysis./blob/main/Scores_by_schoolsize.PNG)
